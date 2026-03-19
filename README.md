@@ -11,6 +11,7 @@ I'm a passionate Front-End Developer from Egypt, dedicated to building responsiv
 - **Learning:** React.js & Advanced JavaScript Logic
 
 ## 📁 Featured Projects
+- **[Bondi Agency](https://youssefali2002.github.io/Bondi-Bootstrap5/)** - Professional Landing Page built with **Bootstrap 5**. 🚀
 - **[YoussefUI Dashboard](https://youssefali2002.github.io/YoussefUI/)** - Complex Admin Dashboard with 8+ Sections.
 - **[NovaDesigns](https://youssefali2002.github.io/NovaDesigns/)** - Modern Portfolio with Mega Menu & Animations.
 - **[Kasper Creative](https://youssefali2002.github.io/Kasper-Creative-Design/)** - Professional Business Template.
@@ -23,6 +24,6 @@ I'm a passionate Front-End Developer from Egypt, dedicated to building responsiv
 
 ## 📫 Connect with me:
 - **GitHub:** [youssefali2002](https://github.com/youssefali2002)
-- **Email:** (youseef.ali.2002@gmail.com)
+- **Email:** youseef.ali.2002@gmail.com
 
 **"Code is like humor. When you have to explain it, it’s bad."** 🐲⚡
