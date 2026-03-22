@@ -90,6 +90,33 @@ I'm a passionate Front-End Developer from Egypt, specializing in creating modern
 - Professional web design standards
 - **Tech Stack:** HTML5, Landing Page, CSS3, Modern UI
 
+#### 7. **[Vanilla Wordle Clone](https://github.com/Youssefali2002/vanilla-wordle-clone)** 🎯
+*Word Game Clone*
+- 🔗 **Live Demo:** [vanilla-wordle-clone](https://youssefali2002.github.io/vanilla-wordle-clone/)
+- Built with pure JavaScript (no frameworks)
+- Word guessing game with keyboard interaction
+- Game state management and validation
+- Visual feedback and animations
+- **Tech Stack:** JavaScript, HTML5, CSS3, Game Development
+
+#### 8. **[Hangman Game](https://github.com/Youssefali2002/Hangman-Game)** 🎮
+*Classic Word Guessing Game*
+- 🔗 **Live Demo:** [Hangman-Game](https://youssefali2002.github.io/Hangman-Game/)
+- Interactive hangman game with JavaScript
+- Dynamic word selection and display
+- Keyboard and click interactions
+- Win/lose game states with restart functionality
+- **Tech Stack:** JavaScript, HTML5, CSS3, Game Logic
+
+#### 9. **[GitHub Repo Finder](https://github.com/Youssefali2002/github-repo-finder)** 🔍
+*Repository Search Application*
+- 🔗 **Live Demo:** [github-repo-finder](https://youssefali2002.github.io/github-repo-finder/)
+- GitHub API integration for repository search
+- Real-time search functionality
+- Repository details and statistics display
+- Responsive search interface
+- **Tech Stack:** JavaScript, GitHub API, HTML5, CSS3
+
 ---
 
 ### 📊 GitHub Statistics
@@ -105,10 +132,10 @@ I'm a passionate Front-End Developer from Egypt, specializing in creating modern
 
 ### 📈 Project Statistics
 
-- **Total Projects:** 7+ Public Repositories
+- **Total Projects:** 10+ Public Repositories
 - **Primary Focus:** Front-End Development
 - **Technologies:** HTML5, CSS3, Bootstrap 5, JavaScript
-- **Specializations:** E-commerce, Admin Dashboards, Creative Portfolios
+- **Specializations:** E-commerce, Admin Dashboards, Creative Portfolios, Game Development, API Integration
 
 ---
 
@@ -160,7 +187,7 @@ I'm open to:
 
 ### 🏆 Achievements
 
-- ✅ Successfully delivered 7+ public projects
+- ✅ Successfully delivered 10+ public projects
 - 🌟 Maintained consistent code quality across all repositories
 - 📱 Implemented responsive design in all projects
 - 🎨 Created visually appealing and functional user interfaces
@@ -295,6 +322,33 @@ I'm open to:
 - معايير تصميم ويب احترافية
 - **التقنيات:** HTML5, Landing Page, CSS3, Modern UI
 
+#### 7. **[Vanilla Wordle Clone](https://github.com/Youssefali2002/vanilla-wordle-clone)** 🎯
+*نسخة لعبة Wordle*
+- 🔗 **معاينة مباشرة:** [vanilla-wordle-clone](https://youssefali2002.github.io/vanilla-wordle-clone/)
+- مبني بـ JavaScript خالص (بدون إطارات عمل)
+- لعبة تخمين الكلمات مع تفاعل لوحة المفاتيح
+- إدارة حالة اللعبة والتحقق من الإجابات
+- تغذية راجعة بصرية ورسوم متحركة
+- **التقنيات:** JavaScript, HTML5, CSS3, Game Development
+
+#### 8. **[Hangman Game](https://github.com/Youssefali2002/Hangman-Game)** 🎮
+*لعبة تخمين الكلمات الكلاسيكية*
+- 🔗 **معاينة مباشرة:** [Hangman-Game](https://youssefali2002.github.io/Hangman-Game/)
+- لعبة hangman تفاعلية بـ JavaScript
+- اختيار وعرض الكلمات ديناميكياً
+- تفاعلات لوحة المفاتيح والنقر
+- حالات الفوز/الخسارة مع وظيفة إعادة البدء
+- **التقنيات:** JavaScript, HTML5, CSS3, Game Logic
+
+#### 9. **[GitHub Repo Finder](https://github.com/Youssefali2002/github-repo-finder)** 🔍
+*تطبيق بحث في المستودعات*
+- 🔗 **معاينة مباشرة:** [github-repo-finder](https://youssefali2002.github.io/github-repo-finder/)
+- تكامل مع GitHub API للبحث في المستودعات
+- وظيفة بحث في الوقت الفعلي
+- عرض تفاصيل وإحصائيات المستودعات
+- واجهة بحث متجاوبة
+- **التقنيات:** JavaScript, GitHub API, HTML5, CSS3
+
 ---
 
 ### 📊 إحصائيات GitHub
@@ -310,10 +364,10 @@ I'm open to:
 
 ### 📈 إحصائيات المشاريع
 
-- **إجمالي المشاريع:** 7+ مستودعات عامة
+- **إجمالي المشاريع:** 10+ مستودعات عامة
 - **التركيز الأساسي:** تطوير الواجهات الأمامية
 - **التقنيات:** HTML5, CSS3, Bootstrap 5, JavaScript
-- **التخصصات:** التجارة الإلكترونية، لوحات التحكم، المعارض الإبداعية
+- **التخصصات:** التجارة الإلكترونية، لوحات التحكم، المعارض الإبداعية، تطوير الألعاب، تكامل الـ API
 
 ---
 
@@ -365,7 +419,7 @@ I'm open to:
 
 ### 🏆 الإنجازات
 
-- ✅ تسليم 7+ مشاريع عامة بنجاح
+- ✅ تسليم 10+ مشاريع عامة بنجاح
 - 🌟 الحفاظ على جودة الكود المتسقة عبر جميع المستودعات
 - 📱 تطبيق التصميم المتجاوب في جميع المشاريع
 - 🎨 إنشاء واجهات مستخدم جذابة بصرياً ووظيفية
